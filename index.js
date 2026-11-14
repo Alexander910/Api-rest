@@ -13,8 +13,8 @@ app.get("/test", (_req, res) => {
     status: 200,
     message: "API funcionando correctamente",
     data: {
-      estudiante: "Nombre Apellido", // Sustituye por tu nombre completo.
-      carne: "12345", // Sustituye por tu carné y conserva las comillas.
+      estudiante: "Aldo Alexander Pablo Tziná",
+      carne: "20623",
       curso: "Despliegue web",
       campus: "UVG Campus Altiplano",
       tecnologia: "Node.js + Express",
